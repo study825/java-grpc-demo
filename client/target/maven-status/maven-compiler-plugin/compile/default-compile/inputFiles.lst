@@ -1,0 +1,7 @@
+/Users/lq/study/java-grpc-demo/client/target/generated-sources/protobuf/grpc-java/com/grpc/example/HelloServiceGrpc.java
+/Users/lq/study/java-grpc-demo/client/src/main/java/com/grpc/example/client/HelloClient.java
+/Users/lq/study/java-grpc-demo/client/target/generated-sources/protobuf/java/com/grpc/example/HelloResponseOrBuilder.java
+/Users/lq/study/java-grpc-demo/client/target/generated-sources/protobuf/java/com/grpc/example/HelloRequestOrBuilder.java
+/Users/lq/study/java-grpc-demo/client/target/generated-sources/protobuf/java/com/grpc/example/HelloServiceOuterClass.java
+/Users/lq/study/java-grpc-demo/client/target/generated-sources/protobuf/java/com/grpc/example/HelloRequest.java
+/Users/lq/study/java-grpc-demo/client/target/generated-sources/protobuf/java/com/grpc/example/HelloResponse.java
